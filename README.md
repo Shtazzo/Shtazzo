@@ -4,8 +4,7 @@
 I am studying at [Università del Salento](https://www.unisalento.it)
 
 ## Skills
-
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50"/> 
 <img src="https://img.icons8.com/color/48/000000/python--v2.png" width="50"/>
 <img src="https://img.icons8.com/color/48/000000/java.png" width="50"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="50"/>
