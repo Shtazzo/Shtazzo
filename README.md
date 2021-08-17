@@ -4,7 +4,8 @@
 
 I am studying at [Università del Salento](https://www.unisalento.it)
 
-Skills: C • PYTHON • JAVA • JAVASCRIPT • TYPESCRIPT • HTML • CSS
+**Skills**: C • PYTHON • JAVA • JAVASCRIPT • TYPESCRIPT • HTML • CSS • MYSQL • SPRING • IONIC • ANGULAR  
+
 
 - 🔭 I’m currently working on awesome personal projects that I hope to share with you! 
 - 🌱 I’m currently learning Python, C, Java, Machine Learning and Deep Learning topics  
