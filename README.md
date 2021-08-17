@@ -4,17 +4,7 @@
 I am studying at [Università del Salento](https://www.unisalento.it)
 
 ## Skills
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50"/> 
-<img src="https://img.icons8.com/color/48/000000/python--v2.png" width="50"/>
-<img src="https://img.icons8.com/color/48/000000/java.png" width="50"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="50"/>
-<img src="https://img.icons8.com/color/48/000000/typescript.png" width="50"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="50"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="50"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" width="50"/>
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="50"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/ionic.png" width="50"/>
-<img src="https://img.icons8.com/color/48/000000/angularjs.png" width="50"/> 
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50"/>  <img src="https://img.icons8.com/color/48/000000/python--v2.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/java.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/css3.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="50"/> <img src="https://img.icons8.com/ios-filled/50/000000/ionic.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/angularjs.png" width="50"/> 
 
 
 - 🔭 I’m currently working on awesome personal projects that I hope to share with you! 
