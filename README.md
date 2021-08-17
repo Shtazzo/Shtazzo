@@ -5,17 +5,17 @@
 I am studying at [Università del Salento](https://www.unisalento.it)
 
 **Skills**: 
-[<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]
-[<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>]
-[<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>]
-[<img src="https://img.icons8.com/color/48/000000/css3.png"/>]
-[<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]
-[<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]
-[<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]
-[<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]
-[<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]
-[<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]
-[<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]  
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
 
 
 - 🔭 I’m currently working on awesome personal projects that I hope to share with you! 
