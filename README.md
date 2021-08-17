@@ -4,7 +4,18 @@
 
 I am studying at [Università del Salento](https://www.unisalento.it)
 
-**Skills**: C • PYTHON • JAVA • JAVASCRIPT • TYPESCRIPT • HTML • CSS • MYSQL • SPRING • IONIC • ANGULAR  
+**Skills**: 
+![C](<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>)
+![PYTHON](<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>)
+![JAVA](<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>)
+![JS](<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>)
+![TS](<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>)
+![HTML](<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>)
+![CSS](<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>)
+![MYSQL](<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>)
+![SPRING](<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>)
+![IONIC](<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>)
+![ANGULAR](<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>)  
 
 
 - 🔭 I’m currently working on awesome personal projects that I hope to share with you! 
