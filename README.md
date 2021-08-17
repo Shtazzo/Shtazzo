@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Emanuele Donno
 #### I am a university student
-![I am a university student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a university student]()
 
 I am studying at [Università del Salento](https://www.unisalento.it)
 
