@@ -11,11 +11,11 @@ I am studying at [Università del Salento](https://www.unisalento.it)
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
+<img src="https://img.icons8.com/color/48/000000/mysql.png"/>
+<img src="https://img.icons8.com/color/48/000000/spring.png"/>
+<img src="https://img.icons8.com/color/48/000000/ionic.png"/>
+<img src="https://img.icons8.com/color/48/000000/java.png"/>
+<img src="https://img.icons8.com/color/48/000000/angular.png"/> 
 
 
 - 🔭 I’m currently working on awesome personal projects that I hope to share with you! 
