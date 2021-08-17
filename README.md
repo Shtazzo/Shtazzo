@@ -13,7 +13,7 @@ I am studying at [Università del Salento](https://www.unisalento.it)
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/ionic-logo.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/ width="48">
 <img src="https://img.icons8.com/color/48/000000/java.png"/>
 <img src="https://img.icons8.com/color/48/000000/angular-logo.png"/> 
 
