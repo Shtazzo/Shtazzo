@@ -18,12 +18,12 @@ I am studying at [Università del Salento](https://www.unisalento.it)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shtazzo&theme=buddhism&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shtazzo&theme=neon-palenight&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shtazzo&theme=synthwave&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shtazzo&show_icons=true&theme=neon-palenight&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shtazzo&show_icons=true&theme=synthwave&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shtazzo&theme=neon-palenight)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shtazzo&theme=synthwave)  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shtazzo&theme=neon-palenight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shtazzo&theme=synthwave)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Shtazzo)  
