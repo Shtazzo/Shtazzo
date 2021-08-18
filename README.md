@@ -20,7 +20,7 @@ I am studying at [Università del Salento](https://www.unisalento.it)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shtazzo)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shtazzo&show_icons=true&count_private=true&theme=tokionight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shtazzo&show_icons=true&theme=tokionight&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shtazzo)  
 
