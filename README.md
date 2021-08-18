@@ -18,9 +18,7 @@ I am studying at [Università del Salento](https://www.unisalento.it)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shtazzo&theme=buddhism&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shtazzo&theme=synthwave&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shtazzo&show_icons=true&theme=synthwave&card_width=500&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shtazzo&theme=synthwave&card_width=480)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shtazzo&show_icons=true&theme=synthwave&card_width=480&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shtazzo)  
 
