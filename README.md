@@ -22,7 +22,7 @@ I am studying at [Università del Salento](https://www.unisalento.it)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shtazzo&show_icons=true&theme=neon-palenight&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shtazzo&theme=rogue)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shtazzo&theme=neon-palenight)  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shtazzo&theme=neon-palenight)](https://git.io/streak-stats)
 
