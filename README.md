@@ -16,7 +16,7 @@ I am studying at [Università del Salento](https://www.unisalento.it)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shtazzo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emanuele-donno/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shtazzo&theme=monokai&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shtazzo&theme=buddhism&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shtazzo)](https://github.com/anuraghazra/github-readme-stats)
 
