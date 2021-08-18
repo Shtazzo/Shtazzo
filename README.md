@@ -1,4 +1,4 @@
-<img src="https://github.com/Shtazzo/Shtazzo/blob/main/banner_github.gif" width="500"/>
+<img src="https://github.com/Shtazzo/Shtazzo/blob/main/Banner%20Github.gif" width="500"/>
 
 # Emanuele Donno
 I am studying at [Università del Salento](https://www.unisalento.it)
