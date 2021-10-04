@@ -26,7 +26,4 @@ I am studying at [Università del Salento](https://www.unisalento.it)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shtazzo&theme=synthwave)](https://git.io/streak-stats)
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shtazzo&hide_title=false)  
  
