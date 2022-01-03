@@ -27,3 +27,6 @@ I am studying at [Università del Salento](https://www.unisalento.it)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shtazzo&theme=synthwave)](https://git.io/streak-stats)
  
+### Personal site
+If you want to know more about my works and projects, you can check out my [website](shtazzo.github.io). 
+*N.B.* The site is work in progress, so at the moment it has no content.
