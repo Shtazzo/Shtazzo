@@ -22,9 +22,9 @@
 
 <!--- ![Profile views](https://gpvc.arturio.dev/Shtazzo) --->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shtazzo&theme=buddhism&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=true)](https://github.com/Shtazzo/github-profile-trophy)
+<!---[![trophy](https://github-profile-trophy.vercel.app/?username=Shtazzo&theme=buddhism&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=true)](https://github.com/Shtazzo/github-profile-trophy)--->
 
-<!---[![trophy](https://github-profile-trophy.vercel.app/?username=Shtazzo&theme=onedark)](https://github.com/Shtazzo/github-profile-trophy)--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shtazzo&theme=onedark)](https://github.com/Shtazzo/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shtazzo&theme=synthwave&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
