@@ -5,7 +5,18 @@
 **MSc. in Computer Engineering**: I graduated at [Università del Salento](https://www.unisalento.it) on the 22nd of February 2023.
 
 ## Skills
-![](https://github.com/Shtazzo/Shtazzo/blob/main/c/c_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/python/python_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/java/java_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/javascript/javascript_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/typescript/typescript_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/html/html_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/css/css_48x48.png) <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="50"/> <img src="https://img.icons8.com/ios-filled/50/000000/ionic.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/angularjs.png" width="50"/> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shtazzo) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emanuele-donno/)  
+![](https://github.com/Shtazzo/Shtazzo/blob/main/c/c_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/python/python_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/java/java_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/javascript/javascript_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/typescript/typescript_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/html/html_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/css/css_48x48.png) <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="50"/> <img src="https://img.icons8.com/ios-filled/50/000000/ionic.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/angularjs.png" width="50"/> 
+
+<p align="center">
+    <br>
+    <img src="https://github.com/Shtazzo/Shtazzo/blob/main/javascript/javascript_48x48.png" alt="programming Languages Logo">
+    <br>
+    <br>
+    <img src="https://github.com/Shtazzo/Shtazzo/blob/main/javascript/javascript_48x48.png" alt="programming gif">
+    <br>
+    <br>
+    <b>The CSS programming language logo</b>
+</p>
 
 <!-- img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50"/---> 
 <!-- img src="https://img.icons8.com/color/48/000000/python--v2.png" width="50"/---> 
@@ -22,6 +33,7 @@
 - 💬 Ask me about math, physics, computer science, etc... I enjoy making new friends and discuss about everything 
 - 😄 Pronouns: Shtazzo (only for friends) 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shtazzo) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emanuele-donno/)  
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Shtazzo&color=brightgreen&style=plastic)
