@@ -7,12 +7,6 @@
 ## Skills
 ![](https://github.com/Shtazzo/Shtazzo/blob/main/c/c_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/python/python_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/java/java_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/javascript/javascript_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/typescript/typescript_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/html/html_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/css/css_48x48.png) <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="50"/> <img src="https://img.icons8.com/ios-filled/50/000000/ionic.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/angularjs.png" width="50"/> 
 
-<p align="center">
-    <br>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="programming gif">
-    <br>
-</p>
-
 
 <!-- img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50"/---> 
 <!-- img src="https://img.icons8.com/color/48/000000/python--v2.png" width="50"/---> 
