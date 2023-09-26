@@ -18,11 +18,13 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shtazzo)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emanuele-donno/)  
 
-![Profile views](https://komarev.com/ghpvc/?username=Shtazzo&color=bright-green&style=plastic)
+![Profile views](https://komarev.com/ghpvc/?username=Shtazzo&color=brightgreen&style=plastic)
 
-%![Profile views](https://gpvc.arturio.dev/Shtazzo) 
+<!--- ![Profile views](https://gpvc.arturio.dev/Shtazzo) --->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shtazzo&theme=buddhism&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shtazzo&theme=buddhism&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=true)](https://github.com/Shtazzo/github-profile-trophy)
+
+<!---[![trophy](https://github-profile-trophy.vercel.app/?username=Shtazzo&theme=onedark)](https://github.com/Shtazzo/github-profile-trophy)--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shtazzo&theme=synthwave&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
