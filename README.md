@@ -9,7 +9,7 @@
 
 <p align="center">
     <br>
-    <img src="https://cdn.abranhe.com/projects/porgramming-languages-logos/logo.svg" alt="programming gif">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="programming gif">
     <br>
 </p>
 
