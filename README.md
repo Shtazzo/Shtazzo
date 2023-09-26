@@ -5,13 +5,7 @@
 **MSc. in Computer Engineering**: I graduated at [Università del Salento](https://www.unisalento.it) on the 22nd of February 2023.
 
 ## Skills
-[](https://github.com/Shtazzo/Shtazzo/blob/main/c/c.png)
-[](https://github.com/Shtazzo/Shtazzo/blob/main/python/python.png)
-[](https://github.com/Shtazzo/Shtazzo/blob/main/java/java.png)
-[](https://github.com/Shtazzo/Shtazzo/blob/main/javascript/javascript.png)
-[](https://github.com/Shtazzo/Shtazzo/blob/main/typescript/typescript.png)
-[](https://github.com/Shtazzo/Shtazzo/blob/main/html/html_256x256.png)
-[](https://github.com/Shtazzo/Shtazzo/blob/main/css/css.png)
+![](https://github.com/Shtazzo/Shtazzo/blob/main/c/c.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/python/python.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/java/java.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/javascript/javascript.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/typescript/typescript.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/html/html_256x256.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/css/css.png)
 
 <!-- img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50"/---> 
 <!-- img src="https://img.icons8.com/color/48/000000/python--v2.png" width="50"/---> 
