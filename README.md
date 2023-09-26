@@ -9,14 +9,15 @@
 
 <p align="center">
     <br>
-    <img src="https://github.com/Shtazzo/Shtazzo/blob/main/javascript/javascript_48x48.png" alt="programming Languages Logo">
+    <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/css@0.0.1/css_256x256.png" alt="programming Languages Logo">
     <br>
     <br>
-    <img src="https://github.com/Shtazzo/Shtazzo/blob/main/javascript/javascript_48x48.png" alt="programming gif">
+    <img src="https://cdn.abranhe.com/projects/porgramming-languages-logos/logo.svg" alt="programming gif">
     <br>
     <br>
     <b>The CSS programming language logo</b>
 </p>
+
 
 <!-- img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50"/---> 
 <!-- img src="https://img.icons8.com/color/48/000000/python--v2.png" width="50"/---> 
