@@ -15,9 +15,12 @@
 - 😄 Pronouns: Shtazzo (only for friends) 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shtazzo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emanuele-donno/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shtazzo)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emanuele-donno/)  
 
-![Profile views](https://gpvc.arturio.dev/Shtazzo) 
+![Profile views](https://komarev.com/ghpvc/?username=Shtazzo&color=bright-green&style=plastic)
+
+%![Profile views](https://gpvc.arturio.dev/Shtazzo) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shtazzo&theme=buddhism&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
