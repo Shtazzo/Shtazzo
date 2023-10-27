@@ -4,6 +4,8 @@
 
 **MSc. in Computer Engineering**: I graduated at [Università del Salento](https://www.unisalento.it) on the 22nd of February 2023.
 
+Since June 2023, I have held the position of Research Assistant at the [CMCC Foundation](https://www.cmcc.it) ([ASC Division](https://www.cmcc.it/it/people/donno-emanuele)).
+
 ## Skills
 ![](https://github.com/Shtazzo/Shtazzo/blob/main/c/c_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/python/python_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/java/java_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/javascript/javascript_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/typescript/typescript_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/html/html_48x48.png) ![](https://github.com/Shtazzo/Shtazzo/blob/main/css/css_48x48.png) <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="50"/> <img src="https://img.icons8.com/ios-filled/50/000000/ionic.png" width="50"/> <img src="https://img.icons8.com/color/48/000000/angularjs.png" width="50"/> 
 
