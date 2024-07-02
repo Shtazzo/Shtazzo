@@ -49,5 +49,5 @@ If you want to know more about my works and projects, you can check out my [webs
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Shtazzo/Shtazzo&type=Timeline)](https://star-history.com/#star-history/star-history&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history&type=Timeline)](https://star-history.com/#star-history/star-history&Timeline)
 
