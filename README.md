@@ -46,3 +46,8 @@ Since June 2023, I have held the position of Research Assistant at the [CMCC Fou
 ### Personal site
 If you want to know more about my works and projects, you can check out my [website](shtazzo.github.io). 
 *N.B.* The site is work in progress, so at the moment it has no content.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history&type=Timeline)](https://star-history.com/#star-history/star-history&Timeline)
+
